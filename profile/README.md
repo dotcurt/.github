@@ -12,6 +12,8 @@ Born in Curtis AI Chat. Owned by no one.
 |---|---|
 | Site | <https://dotcurt.org> |
 | Docs | <https://docs.dotcurt.org> |
+| X | [@curtformat](https://x.com/curtformat) |
+| Roadmap | [dotcurt/projects/1](https://github.com/orgs/dotcurt/projects/1) |
 | Spec v1 | [dotcurt/dot_curt · SPEC.md](https://github.com/dotcurt/dot_curt/blob/main/SPEC.md) |
 | npm | [`curt-format`](https://www.npmjs.com/package/curt-format) |
 | Preprint | DOI [10.5281/zenodo.23864677](https://doi.org/10.5281/zenodo.23864677) |
