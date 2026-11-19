@@ -7,7 +7,7 @@ UTF-8 JSON file per conversation, full fidelity, strict whole-file
 validation, conformance vectors run in CI. Born in Curtis AI Chat.
 Owned by no one.
 
-Site, docs, spec, and the `curt-format` npm package: [dotcurt.org](https://dotcurt.org) · X: [@curtformat](https://x.com/curtformat) · roadmap: [org project #1](https://github.com/orgs/dotcurt/projects/1)
+Site, docs, spec, and the `curt-format` npm package: [dotcurt.org](https://dotcurt.org) · X: [@curtformat](https://x.com/curtformat) · roadmap: [org project #1](https://github.com/orgs/dotcurt/projects/1) · questions: [discussions](https://github.com/dotcurt/dot_curt/discussions)
 
 ## Ecosystem
 
