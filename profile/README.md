@@ -25,6 +25,8 @@ Site, docs, spec, and the `curt-format` npm package: [dotcurt.org](https://dotcu
 | [curt-vcon](https://github.com/dotcurt/curt-vcon) | `.curt` ⇄ IETF vCon container |
 | [langchain-curt](https://github.com/dotcurt/langchain-curt) | LangChain chat loader |
 | [curt-busabase](https://github.com/dotcurt/curt-busabase) | Busabase review trails → `.curt` |
+| [wranglebot](https://github.com/leverframe/wranglebot) | Deterministic guardrails for coding agents — emits `.curt` decision records |
+| [tractum](https://github.com/leverframe/tractum) | Verifiable multi-agent consensus — emits the `consensus-receipt` extension |
 
 The argument for why this layer needs to exist: the preprint, DOI [10.5281/zenodo.23864677](https://doi.org/10.5281/zenodo.23864677).
 
